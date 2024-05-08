@@ -1,5 +1,5 @@
-package golang_modules
+package golangmodules
 
 func HelloPeople() string {
-	return "Hello People"
+	return "Hello People in the world"
 }
